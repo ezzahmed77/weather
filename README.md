@@ -20,13 +20,12 @@ The application is developed using the following tools:
 ## Screenshots
 
 <div>
-<img src="https://user-images.githubusercontent.com/112197330/216043174-27e5a34b-19f2-4442-8667-02ac9ad384c2.png" width="250"/>
-<img src="https://user-images.githubusercontent.com/112197330/216044212-6ad3bd3d-963e-44b0-8c93-2c594c3b1c6f.png" width="250"/>
-  <br/>
-<img src="https://user-images.githubusercontent.com/112197330/216045191-98066095-3025-4d83-8f6e-8ddf2c71715e.png" width="250"/>
-<img src="https://user-images.githubusercontent.com/112197330/216045639-8ef800d8-e8c1-4857-9d5a-18ccb37dd096.png" width="250"/>
-  <br/>
-<img src="https://user-images.githubusercontent.com/112197330/216046553-0eb9ff28-5d1b-4091-8958-98e71ea4129b.png" width="250"/>
+<img src="https://user-images.githubusercontent.com/112197330/216043174-27e5a34b-19f2-4442-8667-02ac9ad384c2.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/112197330/216044212-6ad3bd3d-963e-44b0-8c93-2c594c3b1c6f.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/112197330/216045191-98066095-3025-4d83-8f6e-8ddf2c71715e.png" width="200"/>
+<br/>
+<img src="https://user-images.githubusercontent.com/112197330/216045639-8ef800d8-e8c1-4857-9d5a-18ccb37dd096.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/112197330/216046553-0eb9ff28-5d1b-4091-8958-98e71ea4129b.png" width="200"/>
 </div>
 
 
